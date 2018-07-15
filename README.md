@@ -9,7 +9,7 @@ Inspired by Marie Sharp's, I decided to make my own version based on fermented c
 It turned out really well and I am putting the recipe online to make it easy to share and improve on.
 
 *Preparation tips*
-- Brad from It's Alive, by Bon Apétit, as a great episode, where he does a [fermented chili sauce](https://www.youtube.com/watch?v=UGjCeAbWKPo).
+- Brad, from It's Alive by Bon Apétit, has a great episode, where he does a [fermented chili sauce](https://www.youtube.com/watch?v=UGjCeAbWKPo).
 - Use gloves and work fast! :-)
 
 ## Ingredients
