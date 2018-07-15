@@ -8,6 +8,10 @@ If you haven't tried it, I can really recommend buying a bottle!
 Inspired by Marie Sharp's, I decided to make my own version based on fermented chilis, carrot and parsnip.
 It turned out really well and I am putting the recipe online to make it easy to share and improve on.
 
+*Preparation tips*
+- Brad from It's Alive, by Bon Apétit, as a great episode, where he does a [fermented chili sauce](https://www.youtube.com/watch?v=UGjCeAbWKPo).
+- Use gloves and work fast! :-)
+
 ## Ingredients
 
 - ~400 Habanero Chilis
