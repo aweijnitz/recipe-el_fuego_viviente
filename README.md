@@ -23,13 +23,13 @@ Wide-mouth clean jar to ferment in.
 
 ### The Prep
 
-# Wash all ingredients to remove dirt and any residues of pesticides
-# De-seed all chilis and chop roughly (prevents air pockets from forming in the jar)
-# Peel and chop carrots and parsnip roughly
-# Peel and crush the garlic cloves
-# Add everything to the jar and pack it
-# Top up with brine, so that it covers all and everything is submerged. Use a spoon to pack it and get rid of any air pockets.
-# Weigh down the vegetables with pickle weighs, or simply a small, sealed plastic bag filled with brine
+- Wash all ingredients to remove dirt and any residues of pesticides
+- De-seed all chilis and chop roughly (prevents air pockets from forming in the jar)
+- Peel and chop carrots and parsnip roughly
+- Peel and crush the garlic cloves
+- Add everything to the jar and pack it
+- Top up with brine, so that it covers all and everything is submerged. Use a spoon to pack it and get rid of any air pockets.
+- Weigh down the vegetables with pickle weighs, or simply a small, sealed plastic bag filled with brine
 
 Fermentation should begin within 1-3 days.
 
@@ -67,6 +67,7 @@ Legal: [License CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4
 
 ## Pictures from my first attempt
 
+![](/images/v1/20180714_121505.jpg?raw=true)
 ![](/images/v1/20180630_161027.jpg?raw=true)
 ![](/images/v1/20180630_170759.jpg?raw=true)
 ![](/images/v1/20180702_075317.jpg?raw=true)
@@ -76,4 +77,3 @@ Legal: [License CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4
 ![](/images/v1/20180714_115701.jpg?raw=true)
 ![](/images/v1/20180714_120046.jpg?raw=true)
 ![](/images/v1/20180714_120432.jpg?raw=true)
-![](/images/v1/20180714_121505.jpg?raw=true)
