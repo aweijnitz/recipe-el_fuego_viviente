@@ -14,7 +14,7 @@ It turned out really well and I am putting the recipe online to make it easy to 
 
 ## Ingredients
 
-- ~400 Habanero Chilis
+- ~400g Habanero Chilis
 - ~250g Piri Piri Chilis (exchange with Cayennes, Birds Eye or similar)
 - One large Carrot (~160g)
 - One large parsnip (~130g)
