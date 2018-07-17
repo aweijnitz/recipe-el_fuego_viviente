@@ -11,6 +11,7 @@ It turned out really well and I am putting the recipe online to make it easy to 
 *Preparation tips*
 - Brad, from It's Alive by Bon Appétit, has a great episode, where he does a [fermented chili sauce](https://www.youtube.com/watch?v=UGjCeAbWKPo).
 - Use gloves and work fast! :-)
+- (optional) Checking pH. See below.
 
 ## Ingredients
 
@@ -54,6 +55,16 @@ After the ferment, it is time to mix and bottle the chili sauce.
 *DONE!*
 
 It should keep for a couple of months at least.
+
+#### Checking pH to make sure (optional)
+
+Fermented foods are naturally acidic due to the [lactic acid fermentation process](https://en.wikipedia.org/wiki/Lactic_acid_fermentation) that preserves the produce.
+
+In order to double check that everything went according to plan, you can check the pH along the way. It should drop from around 6 - 7 to around 3 - 5, depending on what you ferment and how long you let it go.
+
+Note, a pH value **below 5** is really desirable, since it prevents nasty bacteria such as boutulism to thrive and it is a clear indication that fermentation has occured. Normally it is however obvious from the way it smells and tastes.
+
+Regularly available pH strips will do, in case you feel like checking.
 
 ## Variations
 
