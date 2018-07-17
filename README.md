@@ -47,8 +47,8 @@ Let sit in room temp, away from direct sunlight for about two weeks, minimum sev
 After the ferment, it is time to mix and bottle the chili sauce.
 
 - Strain the vegetables (keep the brine!)
-- Mix thoroughly in a kitchen mixer (don't let it get hot, since it can kill the culture)
-- Add brine until it has the desired consistency
+- Mix thoroughly in a kitchen mixer/blender (don't let it get hot, since it can kill the culture)
+- Add brine back to the mix, until it has the desired consistency
 - Bottle
 - Keep refrigerated
 
@@ -64,7 +64,7 @@ In order to double check that everything went according to plan, you can check t
 
 Note, a pH value **below 5** is really desirable, since it prevents nasty bacteria such as boutulism to thrive and it is a clear indication that fermentation has occured. Normally it is however obvious from the way it smells and tastes.
 
-Regularly available pH strips will do, in case you feel like checking.
+Regularly available pH strips will do, in case you feel like checking. The picture below shows a reading of a pH value sitting nicely between 3 - 4.
 
 ## Variations
 
