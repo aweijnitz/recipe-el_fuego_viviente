@@ -1,4 +1,4 @@
-# El Fuego Viviente Chili Sauce
+# El Fuego Viviente Chili Open Sauce
 
 One of my favorite hot sauces is [
 Marie Sharp's Hot Habanero Hot Sauce ](http://www.sammcgees.com/habanero-hot-sauce/marie-sharps-hot-habanero-hot-sauce-10oz.html).
