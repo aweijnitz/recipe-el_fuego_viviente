@@ -13,6 +13,10 @@ It turned out really well and I am putting the recipe online to make it easy to 
 - Use gloves and work fast! :-)
 - (optional) Checking pH. See below.
 
+### Translations
+
+- [Chinese](README-CN.md)
+
 ## Ingredients
 
 - ~400g Habanero Chilis
