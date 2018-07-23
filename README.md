@@ -16,6 +16,7 @@ It turned out really well and I am putting the recipe online to make it easy to 
 ### Translations
 
 - [Chinese](README-CN.md)
+- [Español](README-ES.md)
 
 ## Ingredients
 
