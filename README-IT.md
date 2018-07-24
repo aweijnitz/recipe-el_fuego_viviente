@@ -20,6 +20,7 @@ Ispirato dalla Marie Sharp, ho deciso di creare la mia versione personale basata
 * [Inglese](README.md)
 * [Cinese](README-CN.md)
 * [Spagnolo](README-ES.md)
+* [Italiano](README-IT.md)
 
 
 ## Ingredienti
