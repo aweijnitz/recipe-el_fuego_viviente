@@ -88,16 +88,16 @@ Una cartina tornasole qualsiasi farà al caso nostro, nel caso si volesse contro
 
 ## Immagini del mio primo tentativo
 
-![](images_v1/20180714_121505.jpg?raw=true)
-![](images_v1/20180630_161027.jpg?raw=true)
-![](images_v1/20180630_170759.jpg?raw=true)
-![](images_v1/20180702_075317.jpg?raw=true)
-![](images_v1/20180714_114401.jpg?raw=true)
-![](images_v1/20180714_114706.jpg?raw=true)
-![](images_v1/20180714_115547.jpg?raw=true)
-![](images_v1/20180714_115701.jpg?raw=true)
-![](images_v1/20180714_120046.jpg?raw=true)
-![](images_v1/20180714_120432.jpg?raw=true)
+![](/images/v1/20180714_121505.jpg?raw=true)
+![](/images/v1/20180630_161027.jpg?raw=true)
+![](/images/v1/20180630_170759.jpg?raw=true)
+![](/images/v1/20180702_075317.jpg?raw=true)
+![](/images/v1/20180714_114401.jpg?raw=true)
+![](/images/v1/20180714_114706.jpg?raw=true)
+![](/images/v1/20180714_115547.jpg?raw=true)
+![](/images/v1/20180714_115701.jpg?raw=true)
+![](/images/v1/20180714_120046.jpg?raw=true)
+![](/images/v1/20180714_120432.jpg?raw=true)
 
 
 
