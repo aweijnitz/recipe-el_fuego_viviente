@@ -21,7 +21,7 @@ Ispirato dalla Marie Sharp, ho deciso di creare la mia versione personale basata
 * [Spagnolo](README-ES.md)
 
 
-## Ingredients
+## Ingredienti
 
 * ~400g di peperoncini Habanero
 * ~250g di peperoncini Piri Piri (oppure peperoncini di Cayenna, Birds Eye o simili)
