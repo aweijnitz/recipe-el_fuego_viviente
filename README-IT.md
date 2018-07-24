@@ -66,8 +66,7 @@ Dopo la fermentazione, è il momento di frullare e imbottigliare la salsa.
 Dovrebbe conservarsi per almeno un paio di mesi.
 
 #### Controllare il pH per essere sicuri (facoltativo)
-I cibi fermentati sono naturalmente ccidici per il processo di [fermentazione lattica](https://it.wikipedia.org/wiki/Fermentazione_lattica) 
-Fermented foods are naturally acidic due to the [lactic acid fermentation process](https://en.wikipedia.org/wiki/Lactic_acid_fermentation) che conserva I prodotti.
+I cibi fermentati sono naturalmente acidici per il processo di [fermentazione lattica](https://it.wikipedia.org/wiki/Fermentazione_lattica) che conserva I prodotti.
 
 Per assicurarsi che tutto sia andato secondo I piani si può controllare il pH durante il processo. Il valore dovrebbe scendere da circa 6 - 7 a 3 - 5 a seconda di cosa viene fermentato e per quanto tempo.
 
@@ -89,16 +88,16 @@ Una cartina tornasole qualsiasi farà al caso nostro, nel caso si volesse contro
 
 ## Immagini del mio primo tentativo
 
-![](_images_v1/20180714_121505.jpg?raw=true)
-![](_images_v1/20180630_161027.jpg?raw=true)
-![](_images_v1/20180630_170759.jpg?raw=true)
-![](_images_v1/20180702_075317.jpg?raw=true)
-![](_images_v1/20180714_114401.jpg?raw=true)
-![](_images_v1/20180714_114706.jpg?raw=true)
-![](_images_v1/20180714_115547.jpg?raw=true)
-![](_images_v1/20180714_115701.jpg?raw=true)
-![](_images_v1/20180714_120046.jpg?raw=true)
-![](_images_v1/20180714_120432.jpg?raw=true)
+![](images_v1/20180714_121505.jpg?raw=true)
+![](images_v1/20180630_161027.jpg?raw=true)
+![](images_v1/20180630_170759.jpg?raw=true)
+![](images_v1/20180702_075317.jpg?raw=true)
+![](images_v1/20180714_114401.jpg?raw=true)
+![](images_v1/20180714_114706.jpg?raw=true)
+![](images_v1/20180714_115547.jpg?raw=true)
+![](images_v1/20180714_115701.jpg?raw=true)
+![](images_v1/20180714_120046.jpg?raw=true)
+![](images_v1/20180714_120432.jpg?raw=true)
 
 
 
