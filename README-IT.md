@@ -100,12 +100,3 @@ Una cartina tornasole farà al caso nostro nel caso si volesse controllare. L’
 ![](/images/v1/20180714_115701.jpg?raw=true)
 ![](/images/v1/20180714_120046.jpg?raw=true)
 ![](/images/v1/20180714_120432.jpg?raw=true)
-
-
-
-
-
-
-
-
-
