@@ -82,6 +82,7 @@ Regularly available pH strips will do, in case you feel like checking. The pictu
 
 - Add cane sugar
 
+- To make it more like Tabasco sauce, after blending and adding the brine, filter the sauce through a fine mesh strain. Bring the sauce back to the mixer and while mixing, add about a quarter teaspoon of xanthan gum per cup of sauce and blend carefully to avoid lumps.
 
 
 **COPYRIGHT:** [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
