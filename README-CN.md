@@ -17,7 +17,7 @@
 - [英文原版](README.md)
 - [西班牙译](README-ES.md)
 - [意大利译](README-IT.md)
-
+- [法语翻译](README-FR.md)
 
 ## 配料
 

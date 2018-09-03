@@ -20,6 +20,7 @@ Resultó saber muy bien y ahora estoy poniendo la receta en línea para que sea 
 - [Español](README-ES.md)
 - [Inglés](README.md)
 - [Italiano](README-IT.md)
+- [Francés](README-FR.md)
 
 ## Ingredientes
 
