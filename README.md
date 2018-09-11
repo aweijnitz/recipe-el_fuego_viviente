@@ -56,7 +56,7 @@ After the ferment, it is time to mix and bottle the chili sauce.
 
 - Strain the vegetables (keep the brine!)
 - Mix thoroughly in a kitchen mixer/blender (don't let it get hot, since it can kill the culture)
-- Add brine back to the mix, until it has the desired consistency
+- Add brine back to the mix, until it has the desired consistency (leftover brine makes a great addition to Bloody Marys, or can be used to kickstart your next batch of sauce)
 - Bottle
 - Keep refrigerated
 
