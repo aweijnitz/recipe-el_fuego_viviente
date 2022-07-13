@@ -27,7 +27,7 @@ Gerçekten iyi bir şekilde sonuçlandı. Tarifi paylaşmayı ve geliştirmeyi k
 - Hafif yumuşak bir ısı için bir çift sarı Jalapeno biberi (isteğe bağlı. etrafımda bir tane vardı)
 76 / 5.000
 Çeviri sonuçları
-- Bir büyük Havuç (~160g)
+- Bir büyük havuç (~160g)
 - Bir büyük yaban havucu (~130g)
 - Üç diş sarımsak
 - %5 Salamura --> __Litre Başına__; 950 gr klorsuz su, katkı maddesi içermeyen 50 gr tuz (deniz tuzu, kaya tuzu veya koşer tuzu)
