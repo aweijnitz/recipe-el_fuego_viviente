@@ -73,7 +73,7 @@ Los alimentos fermentados son naturalmente ácidos debido al proceso de [ferment
 
 Para verificar que todo salió según lo planeado, puede comprobar el pH durante el proceso. Debería bajar de 6 ó 7 a entre 3 y 5, dependiendo de lo que fermente y durante cuánto tiempo lo dejes.
 
-Tenga en cuenta que un valor de pH **por debajo de 5** es el realmente deseable, ya que previene que bacterias desagradables como el boutulismo prosperen y es una clara indicación de que se ha producido la fermentación. Normalmente, sin embargo, es obvio por la forma en la que huele y sabe.
+Tenga en cuenta que un valor de pH **por debajo de 4.5** es el realmente deseable, ya que previene que bacterias desagradables como el boutulismo prosperen y es una clara indicación de que se ha producido la fermentación. Normalmente, sin embargo, es obvio por la forma en la que huele y sabe.
 
 Las tiras de pH disponibles regularmente servirán, en caso de que desee comprobarlo. Una de las imágenes adjunta al final del documento muestra una lectura de un valor de pH que se encuentra entre 3 y 4.
 
