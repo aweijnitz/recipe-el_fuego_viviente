@@ -70,7 +70,7 @@ Les aliments fermentés sont naturellement acides, à cause du processus de [fer
 
 Pour s'assurer que tout s'est bien passé, vous pouvez tester le pH en cours de route. Il devrait descendre de 6 - 7 à environ 3 - 5, selon ce qui fermente, et pour combien de temps.
 
-Notez qu'un pH **en-dessous de 5** est souhaitable, puisqu'il empêchera les mauvaises bactéries telles que le botulisme de se développer, et c'est un signe évident que la fermentation a bien eu lieu. Cela devrait tout de même être évident au goût et à l'odeur.
+Notez qu'un pH **en-dessous de 4.5** est souhaitable, puisqu'il empêchera les mauvaises bactéries telles que le botulisme de se développer, et c'est un signe évident que la fermentation a bien eu lieu. Cela devrait tout de même être évident au goût et à l'odeur.
 
 Des bandelettes de test de pH usuelles conviendront, si vous désirez vérifier. L'une des photos ci-dessous montre une lecture de pH entre 3 et 4.
 

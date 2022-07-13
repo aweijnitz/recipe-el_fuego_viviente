@@ -73,7 +73,7 @@ I cibi fermentati sono naturalmente acidici per il processo di [fermentazione la
 
 Per assicurarsi che tutto sia andato secondo I piani si può controllare il pH durante il processo. Il valore dovrebbe scendere da circa 6 - 7 a 3 - 5 a seconda di cosa viene fermentato e per quanto tempo.
 
-Nota bene: un pH **inferiore a 5** è l’obbiettivo, dato che previene la proliferazione di batteri come il botulismo ed è una chiara indicazione del fatto che la fermentazione è avvenuta. Di solito si può comunque capire dall’odore e dal sapore del cibo.
+Nota bene: un pH **inferiore a 4.5** è l’obbiettivo, dato che previene la proliferazione di batteri come il botulismo ed è una chiara indicazione del fatto che la fermentazione è avvenuta. Di solito si può comunque capire dall’odore e dal sapore del cibo.
 
 Una cartina tornasole farà al caso nostro nel caso si volesse controllare. L’immagine sottostante mostra una lettura del pH con valore compreso tra 3 e 4.
 
